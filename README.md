@@ -11,4 +11,4 @@ You can use whatever colors you want and make the conference topic on any subjec
 Bonus - reuse the header/nav section and link to other pages with different tables on each page.
 
 ![ref-1](ref-1.PNG)
-![ref-2](ref-2.PNG)
+![ref-2](Ref-2.PNG)
